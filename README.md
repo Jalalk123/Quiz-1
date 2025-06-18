@@ -5,7 +5,7 @@ A. numpy
 B. matplotlib
 C. gensim
 D. polars
-# E. Todas las anteriores
+E. Todas las anteriores
 F. Ninguna de las anteriores
 
 Muestra la diferencia de cuanto se desvía la media
