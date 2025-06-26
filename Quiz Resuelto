@@ -5,14 +5,14 @@ A. numpy
 B. matplotlib
 C. gensim
 D. polars
-# E. Todas las anteriores
+**# E. Todas las anteriores**
 F. Ninguna de las anteriores
 
 Muestra la diferencia de cuanto se desvía la media
 # C. desviación estándar
 
 Los cuartiles, deciles, percentiles son aquellos que:
-# A. Dividen la data en partes diferentes
+# D. Dividen las observaciones en partes iguales
 
 Una gráfica con distribución central más hacia la derecha y una cola a la izquierda se dice es:
 # A. left-skewed o sesgada a la izquierda
